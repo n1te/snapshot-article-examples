@@ -1,0 +1,16 @@
+# serializer version: 1
+# name: test_favorite_beer_endpoint
+  200
+# ---
+# name: test_favorite_beer_endpoint.1
+  dict({
+    'id': 1,
+    'image': 'https://www.totalwine.com/media/sys_master/twmmedia/h00/h94/11891416367134.png',
+    'name': 'Founders All Day IPA',
+    'price': '$16.99',
+    'rating': dict({
+      'average': 4.41,
+      'reviews': 453,
+    }),
+  })
+# ---

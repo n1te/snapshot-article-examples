@@ -1,0 +1,7 @@
+fastapi==0.109.2
+uvicorn==0.27.0.post1
+aiohttp==3.9.3
+pytest==8.0.0
+pytest-recording==0.13.1
+syrupy==4.6.1
+httpx==0.26.0

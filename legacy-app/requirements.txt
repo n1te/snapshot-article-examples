@@ -1,0 +1,5 @@
+flask==3.0.2
+requests==2.31.0
+pytest==8.0.0
+pytest-recording==0.13.1
+syrupy==4.6.1
